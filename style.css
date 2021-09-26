@@ -1,5 +1,7 @@
 p {
   background: red;
-  color: blue;
+  color: yellow;
   border: 2px solid black;
+  width: 100%;
+  height: 100%;
 }
